@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Box, HStack, Text } from '@gluestack-ui/themed';
-import { TouchableOpacity, TextInput, Platform } from 'react-native';
+import { TouchableOpacity, TextInput, Platform   } from 'react-native';
+// gg
 import { Feather } from '@expo/vector-icons';
 
 export type Note = {
